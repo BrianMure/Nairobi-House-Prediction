@@ -85,7 +85,3 @@ MAE ≈ 40M KSh
 RMSE ≈ 90M KSh
 
 Random Forest significantly improved predictive accuracy by capturing non-linear relationships and location effects.
-
-
-
-Git & project structuring
